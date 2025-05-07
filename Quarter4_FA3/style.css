@@ -14,11 +14,19 @@ h1 {
     border-radius: 10px;
 }
 
-div {
+#p1, #p2 {
     background-color: #fafafa;
     margin-left: 150px;
     margin-right: 150px;
     padding-top: 10px;
     padding-bottom: 10px;
     border-radius: 10px;
+}
+
+#s {
+    text-align: left;
+}
+
+#shape {
+    margin-left: 435px;
 }
